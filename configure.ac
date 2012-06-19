@@ -24,7 +24,7 @@ AC_CHECK_HEADERS([sys/types.h])
 AC_CHECK_HEADERS([netinet/in.h])
 
 ### Compiler Hardening ###
-AX_ENABLE_HARDENING
+##AX_ENABLE_HARDENING
 
 ### Libraries ###
 
